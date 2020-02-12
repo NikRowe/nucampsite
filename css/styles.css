@@ -20,12 +20,19 @@ header h2 {
     background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
     color: white;
 }
-​
 .row-content {
     padding: 50px 0;
     border-bottom: 1px ridge;
     min-height: 200px;
 }
+
 .navbar {
     background-color: #901CAD;
+}
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+    border: solid #5637DD;
 }
